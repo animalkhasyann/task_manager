@@ -27,4 +27,10 @@ a {
     margin-left: 10px;
 }
 /* Main change */
+<<<<<<< HEAD
 /* Another main branch update */
+=======
+input{
+    border: 2px solid rgb(44, 41, 41);
+}
+>>>>>>> db713fb (added border to input)
