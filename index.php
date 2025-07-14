@@ -33,5 +33,8 @@ $result = $conn->query("SELECT * FROM tasks ORDER BY id DESC");
         </li>
         <?php endwhile; ?>
     </ul>
+    <footer>
+    <p>© 2025 Task Manager</p>
+</footer>
 </body>
 </html>
