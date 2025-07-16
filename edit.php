@@ -20,13 +20,16 @@ $task = $result->fetch_assoc();
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Edit Task</title>
+    <title>Edit Task/Tasks management</title>
 </head>
 <body>
-    <h2>Edit Task</h2>
+    <h2>Edit</h2>
     <form method="POST">
-        <input type="text" name="title" value="<?= htmlspecialchars($task['title']) ?>" required>
+        <input type="text" name="title" value="<?= htmlspecialchars($task['title']) ?>" >
         <button type="submit">Save</button>
     </form>
+    <p>testing</p>
+    <button>test</button>
+    <h1>Testtt</h1>
 </body>
 </html>
