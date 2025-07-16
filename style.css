@@ -30,13 +30,12 @@ input{
     border: 2px solid rgb(44, 41, 41);
 }
 
+
 footer{
     background-color: green;
 }
-body{
 
-background-color: red;
-}
 p{
     color: red;
 }
+
