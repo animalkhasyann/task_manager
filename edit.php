@@ -28,5 +28,6 @@ $task = $result->fetch_assoc();
         <input type="text" name="title" value="<?= htmlspecialchars($task['title']) ?>" >
         <button type="submit">Save</button>
     </form>
+    <p>testing</p>
 </body>
 </html>
