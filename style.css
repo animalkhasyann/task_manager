@@ -31,8 +31,12 @@ input{
 }
 
 footer{
-    background-color: green;
+    background-color: red;
 }
 body{
-background-color: yellow;
+
+background-color: red;
+}
+p{
+    color: red;
 }
