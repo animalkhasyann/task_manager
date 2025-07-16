@@ -1,7 +1,6 @@
 body {
     font-family: sans-serif;
     padding: 20px;
-    background: #f0f0f0;
 }
 form {
     margin-bottom: 20px;
@@ -27,8 +26,16 @@ a {
     margin-left: 10px;
 }
 
-
 input{
     border: 2px solid rgb(44, 41, 41);
+}
+
+
+footer{
+    background-color: green;
+}
+
+p{
+    color: red;
 }
 
